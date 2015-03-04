@@ -1,6 +1,6 @@
 {
-  "name": "boilerplateapi",
-  "description": "SmartDataCenter Boilerplate API",
+  "name": "sdc-bunyan-serializers",
+  "description": "SmartDataCenter bunyan serializers",
   "version": "0.1.0",
   "author": "Joyent (joyent.com)",
   "private": true,
