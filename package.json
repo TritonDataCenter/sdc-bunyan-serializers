@@ -1,13 +1,13 @@
 {
   "name": "sdc-bunyan-serializers",
   "description": "SmartDataCenter bunyan serializers",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "author": "Joyent (joyent.com)",
   "private": true,
   "main": "./lib/serializers.js",
   "peerDependencies": {
     "bunyan": "1.x >=1.1.3",
-    "restify": "2.x"
+    "restify": ">=2"
   },
   "license": "MPL-2.0"
 }
